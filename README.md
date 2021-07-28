@@ -1,5 +1,14 @@
 # MyReads Project
 
+A bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read. The project emphasizes using React to build the application and provides an API server and client library to persist information as you interact with the application.
+
+## Motivation
+
+The purpose of this project is to implement various features of the ReactJS library including:
+
+- [React](https://reactjs.org/)
+- [React Router](https://reactrouter.com/)
+
 ## TL;DR
 
 To get started developing right away:
